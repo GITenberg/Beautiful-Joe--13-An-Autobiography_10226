@@ -1,5 +1,8 @@
 _repo: Beautiful-Joe--13-An-Autobiography_10226
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1041
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10226#Beautiful-Joe--13-An-Autobiography
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
